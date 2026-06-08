@@ -1,0 +1,4 @@
+interface:
+  display_name: "霜色拾韵"
+  short_description: "提取图片核心色，匹配中国传统色名，并生成色卡拼接图。"
+  default_prompt: "从这张图片提取核心颜色，匹配中国传统色名称，生成带文字色卡并与原图拼接。"
